@@ -1,4 +1,4 @@
-# A-algorithm-in-windows-console
+# A*-algorithm-in-windows-console
 Hobby project - A* algorithm in windows console
 
 Motivated from Javidx9 :)
